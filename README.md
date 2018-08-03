@@ -4,6 +4,6 @@ In this challenge, I have created a Python script to perform sentiment analysis 
 
 Using the Tweepy API on Python, I have pulled 100 most recent tweets from each of the five media's official Twitter account. 
 
-# Author
+## Author
 
 Eric Jung
