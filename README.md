@@ -6,10 +6,10 @@ In this challenge, I have created a Python script to perform sentiment analysis 
 Using the Tweepy API on Python, I have pulled 100 most recent tweets from each of the five media's official Twitter account. 
 
 ## Python Modules: Pre-Requisites
-tweepy
-numpy
-pandas
-matplotlib
+tweepy<br />
+numpy<br />
+pandas<br />
+matplotlib<br />
 Twitter API: onsumer_key, consumer_secret, access_token, access_token_secret
 
 ## Findings 
